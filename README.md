@@ -16,9 +16,17 @@
 
 <h3 align="left">🔥 My Stats :</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kengserch&show_icons=true&locale=en&layout=compact" alt="kengserch" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kengserch&" alt="kengserch" /></p>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kengserch&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kengserch&" alt="kengserch" /></p> -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kengserch&layout=compact&theme=dark&border_color=00000000)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kengserch)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kengserch&show_icons=true&locale=en&layout=compact" alt="kengserch" /></p> -->
 
 <hr>
 
