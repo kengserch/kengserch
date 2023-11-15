@@ -4,7 +4,7 @@ Bachelor of Science Program in Information Technology for Design,
 Interactive Application Programme (former is Web and Interactive Media Programme),
 Faculty of Information and Communication Technology, Silpakorn University, Thailand
 
-<h3 align="center">Frontend Developer, Backend Developer, UX/UI Designer </h3>
+<h3 align="center">Frontend Developer, Backend Developer</h3>
 
 <hr>
 
