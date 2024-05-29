@@ -10,8 +10,8 @@ Bachelor of Science Program in Information Technology for Design,
 Interactive Application Programme (former is Web and Interactive Media Programme),
 Faculty of Information and Communication Technology, Silpakorn University, Thailand
 
-* 🖥️  See my resume at [Portfolio](https://shorturl.at/ebw67)
-* 🖥️  See my portfolio at [Portfolio](https://shorturl.at/qzE8I)
+* 🖥️  See my Resume at [Resume](https://shorturl.at/ebw67)
+* 🖥️  See my Portfolio at [Portfolio](https://shorturl.at/qzE8I)
 * ✉️  You can contact me at [kengsert@gmail.com](mailto:kengsert@gmail.com)
 
 ### Skills
