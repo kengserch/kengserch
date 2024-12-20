@@ -35,7 +35,7 @@ organizational efficiency, and optimize user interfaces.
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kengserch&theme=github-dark-blue" alt="GitHub Streak" /></a>
 
-<a href="https://github.com/kengserch" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kengserch&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/kengserch" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kengserch&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
