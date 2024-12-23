@@ -33,7 +33,7 @@ organizational efficiency, and optimize user interfaces.
 
 <b>My GitHub Stats</b>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kengserch&theme=github-dark-blue" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kengserch&mode=weekly&theme=github-dark-blue" alt="GitHub Streak" /></a>
 
 <a href="https://github.com/kengserch">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kengserch&layout=compact&theme=transparent&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
