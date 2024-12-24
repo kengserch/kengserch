@@ -7,9 +7,9 @@ Bachelor of Science Program in Information Technology for Design,
 Interactive Application Programme (former is Web and Interactive Media Programme),
 Faculty of Information and Communication Technology, Silpakorn University, Thailand
 
-Front End Developer
+Web Developer
 ------------------
-A passionate Frontend Developer Intern with a drive to create exceptional user experiences through the use of HTML, CSS, and JavaScript. Seeking a position to leverage strong technical and problem-solving skills and extensive web development knowledge to achieve
+A passionate Web developer Intern with a drive to create exceptional user experiences through the use of HTML, CSS, and JavaScript. Seeking a position to leverage strong technical and problem-solving skills and extensive web development knowledge to achieve
 organizational efficiency, and optimize user interfaces.
 
 * 🖥️  See my resume at [Resume](https://shorturl.at/raRWa)
